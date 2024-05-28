@@ -1,0 +1,9 @@
+Budget Tracker App
+
+Proyectda aytilgan shartlar max darajada bajarishga harakat qildim, 4 ta route, 4 ta controller, 4 database qilindi, 
+va admin panel ham qilindi bitta admin qo'shib qo'ydim ya shu admin orqali boshqa adminlar qo'shsa bo'ladi, crud yasaldi,  
+aytilgan categoryada update va delete shartlari bajarilsa userni balance ham o'zgarsin deyilgandi unga ham logika yozildi, 
+va user o'z balance ni boshqarsa, kirdi - chiqti larga historyani get qilib olsa bo'ladi, 
+va har bir user o'zining history sini ko'ra olishi mumkin, har bir route private auth dan tashqari. 
+Va bemalol kodlarni o'qiy oladigan qilib yozishga harakat qildim. Yaxshilab kodlarini tekshirasiz,
+va xatolar bo'lsa tushuntirib berasiz degan umidaman.
